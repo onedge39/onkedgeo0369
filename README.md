@@ -25,6 +25,12 @@ Manual publish refresh without running the loop:
 python3 /Users/kylejones/Desktop/KALSHI_API/scripts/publish_site.py
 ```
 
+Deploy the refreshed `docs/` site to GitHub Pages:
+
+```zsh
+python3 /Users/kylejones/Desktop/KALSHI_API/scripts/deploy_pages.py
+```
+
 GitHub Pages:
 
 1. Push this repo to GitHub.
