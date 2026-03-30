@@ -1,0 +1,11 @@
+demo_credentials.local.yaml
+oddsapi_credentials.local.yaml
+__pycache__/
+.DS_Store
+data/.DS_Store
+data/*.html
+data/scans/
+data/fanduel/
+data/oddsapi_props_latest.json
+data/oddsapi_test_dump.json
+outputs/

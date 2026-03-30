@@ -1,0 +1,781 @@
+player_name,team_name,team_abbrev,espn_id,source_date
+Taylor Clarke,Arizona Diamondbacks,ARI,35277,2026-03-29
+Zac Gallen,Arizona Diamondbacks,ARI,39910,2026-03-29
+Kevin Ginkel,Arizona Diamondbacks,ARI,41432,2026-03-29
+Andrew Hoffmann,Arizona Diamondbacks,ARI,5080514,2026-03-29
+Jonathan Loaisiga,Arizona Diamondbacks,ARI,39807,2026-03-29
+Juan Morillo,Arizona Diamondbacks,ARI,4722925,2026-03-29
+Ryne Nelson,Arizona Diamondbacks,ARI,4916269,2026-03-29
+Brandon Pfaadt,Arizona Diamondbacks,ARI,4721302,2026-03-29
+Eduardo Rodriguez,Arizona Diamondbacks,ARI,32675,2026-03-29
+Joe Ross,Arizona Diamondbacks,ARI,32684,2026-03-29
+Paul Sewald,Arizona Diamondbacks,ARI,35009,2026-03-29
+Michael Soroka,Arizona Diamondbacks,ARI,34984,2026-03-29
+Ryan Thompson,Arizona Diamondbacks,ARI,38628,2026-03-29
+James McCann,Arizona Diamondbacks,ARI,32046,2026-03-29
+Gabriel Moreno,Arizona Diamondbacks,ARI,42464,2026-03-29
+Nolan Arenado,Arizona Diamondbacks,ARI,31261,2026-03-29
+Jordan Lawlar,Arizona Diamondbacks,ARI,4872649,2026-03-29
+Ketel Marte,Arizona Diamondbacks,ARI,32512,2026-03-29
+Geraldo Perdomo,Arizona Diamondbacks,ARI,41355,2026-03-29
+Carlos Santana,Arizona Diamondbacks,ARI,30280,2026-03-29
+Pavin Smith,Arizona Diamondbacks,ARI,40767,2026-03-29
+Tim Tawa,Arizona Diamondbacks,ARI,4345192,2026-03-29
+Ildemaro Vargas,Arizona Diamondbacks,ARI,32985,2026-03-29
+Jorge Barrosa,Arizona Diamondbacks,ARI,41259,2026-03-29
+Corbin Carroll,Arizona Diamondbacks,ARI,42404,2026-03-29
+Alek Thomas,Arizona Diamondbacks,ARI,41215,2026-03-29
+Elvis Alvarado,Athletics,ATH,42211,2026-03-29
+Scott Barlow,Athletics,ATH,32156,2026-03-29
+Aaron Civale,Athletics,ATH,40934,2026-03-29
+J.T. Ginn,Athletics,ATH,4414002,2026-03-29
+Hogan Harris,Athletics,ATH,41364,2026-03-29
+Michael Kelly,Athletics,ATH,36156,2026-03-29
+Mark Leiter Jr.,Athletics,ATH,36202,2026-03-29
+Jacob Lopez,Athletics,ATH,42239,2026-03-29
+Luis Medina,Athletics,ATH,40949,2026-03-29
+Luis Morales,Athletics,ATH,5150939,2026-03-29
+Luis Severino,Athletics,ATH,33263,2026-03-29
+Jeffrey Springs,Athletics,ATH,35397,2026-03-29
+Justin Sterner,Athletics,ATH,4307467,2026-03-29
+Shea Langeliers,Athletics,ATH,42598,2026-03-29
+Austin Wynns,Athletics,ATH,35314,2026-03-29
+Darell Hernaiz,Athletics,ATH,43025,2026-03-29
+Andy Ibanez,Athletics,ATH,34947,2026-03-29
+Nick Kurtz,Athletics,ATH,4966637,2026-03-29
+Jeff McNeil,Athletics,ATH,33900,2026-03-29
+Max Muncy,Athletics,ATH,4872686,2026-03-29
+Jacob Wilson,Athletics,ATH,4719300,2026-03-29
+Lawrence Butler,Athletics,ATH,4917919,2026-03-29
+Denzel Clarke,Athletics,ATH,4918085,2026-03-29
+Carlos Cortes,Athletics,ATH,41595,2026-03-29
+Brent Rooker,Athletics,ATH,40926,2026-03-29
+Tyler Soderstrom,Athletics,ATH,4686066,2026-03-29
+Osvaldo Bido,Atlanta Braves,ATL,5132624,2026-03-29
+Aaron Bummer,Atlanta Braves,ATL,36131,2026-03-29
+Bryce Elder,Atlanta Braves,ATL,4301067,2026-03-29
+Didier Fuentes,Atlanta Braves,ATL,5291189,2026-03-29
+Grant Holmes,Atlanta Braves,ATL,33840,2026-03-29
+Raisel Iglesias,Atlanta Braves,ATL,33618,2026-03-29
+Tyler Kinley,Atlanta Braves,ATL,34166,2026-03-29
+Dylan Lee,Atlanta Braves,ATL,41455,2026-03-29
+Reynaldo Lopez,Atlanta Braves,ATL,33860,2026-03-29
+Joel Payamps,Atlanta Braves,ATL,40021,2026-03-29
+Chris Sale,Atlanta Braves,ATL,30948,2026-03-29
+Jose Suarez,Atlanta Braves,ATL,40981,2026-03-29
+Robert Suarez,Atlanta Braves,ATL,4148749,2026-03-29
+Drake Baldwin,Atlanta Braves,ATL,4810190,2026-03-29
+Jonah Heim,Atlanta Braves,ATL,33842,2026-03-29
+Ozzie Albies,Atlanta Braves,ATL,33783,2026-03-29
+Mauricio Dubon,Atlanta Braves,ATL,35304,2026-03-29
+Kyle Farmer,Atlanta Braves,ATL,33287,2026-03-29
+Jorge Mateo,Atlanta Braves,ATL,33832,2026-03-29
+Matt Olson,Atlanta Braves,ATL,32767,2026-03-29
+Austin Riley,Atlanta Braves,ATL,34982,2026-03-29
+Dominic Smith,Atlanta Braves,ATL,33218,2026-03-29
+Ronald Acuna Jr.,Atlanta Braves,ATL,36185,2026-03-29
+Michael Harris II,Atlanta Braves,ATL,42470,2026-03-29
+Eli White,Atlanta Braves,ATL,39963,2026-03-29
+Mike Yastrzemski,Atlanta Braves,ATL,33341,2026-03-29
+Chris Bassitt,Baltimore Orioles,BAL,33148,2026-03-29
+Shane Baz,Baltimore Orioles,BAL,39639,2026-03-29
+Kyle Bradish,Baltimore Orioles,BAL,4311625,2026-03-29
+Yennier Cano,Baltimore Orioles,BAL,35536,2026-03-29
+Zach Eflin,Baltimore Orioles,BAL,32804,2026-03-29
+Dietrich Enns,Baltimore Orioles,BAL,36049,2026-03-29
+Rico Garcia,Baltimore Orioles,BAL,41382,2026-03-29
+Ryan Helsley,Baltimore Orioles,BAL,39909,2026-03-29
+Yaramil Hiraldo,Baltimore Orioles,BAL,4916585,2026-03-29
+Anthony Nunez,Baltimore Orioles,BAL,5275196,2026-03-29
+Trevor Rogers,Baltimore Orioles,BAL,39640,2026-03-29
+Tyler Wells,Baltimore Orioles,BAL,4717904,2026-03-29
+Grant Wolfram,Baltimore Orioles,BAL,3961066,2026-03-29
+Samuel Basallo,Baltimore Orioles,BAL,4917646,2026-03-29
+Adley Rutschman,Baltimore Orioles,BAL,42178,2026-03-29
+Blaze Alexander,Baltimore Orioles,BAL,41345,2026-03-29
+Pete Alonso,Baltimore Orioles,BAL,37498,2026-03-29
+Gunnar Henderson,Baltimore Orioles,BAL,42507,2026-03-29
+Jeremiah Jackson,Baltimore Orioles,BAL,41264,2026-03-29
+Coby Mayo,Baltimore Orioles,BAL,4683371,2026-03-29
+Ryan Mountcastle,Baltimore Orioles,BAL,34940,2026-03-29
+Dylan Beavers,Baltimore Orioles,BAL,4959037,2026-03-29
+Colton Cowser,Baltimore Orioles,BAL,4416990,2026-03-29
+Tyler O'Neill,Baltimore Orioles,BAL,34168,2026-03-29
+Leody Taveras,Baltimore Orioles,BAL,34951,2026-03-29
+Taylor Ward,Baltimore Orioles,BAL,34923,2026-03-29
+Brayan Bello,Boston Red Sox,BOS,4720856,2026-03-29
+Aroldis Chapman,Boston Red Sox,BOS,30442,2026-03-29
+Danny Coulombe,Boston Red Sox,BOS,33638,2026-03-29
+Garrett Crochet,Boston Red Sox,BOS,4297835,2026-03-29
+Connelly Early,Boston Red Sox,BOS,4863321,2026-03-29
+Sonny Gray,Boston Red Sox,BOS,32082,2026-03-29
+Jovani Moran,Boston Red Sox,BOS,4722926,2026-03-29
+Johan Oviedo,Boston Red Sox,BOS,41405,2026-03-29
+Justin Slaten,Boston Red Sox,BOS,4917925,2026-03-29
+Ranger Suarez,Boston Red Sox,BOS,39817,2026-03-29
+Ryan Watson,Boston Red Sox,BOS,5125911,2026-03-29
+Greg Weissert,Boston Red Sox,BOS,41485,2026-03-29
+Garrett Whitlock,Boston Red Sox,BOS,39674,2026-03-29
+Carlos Narvaez,Boston Red Sox,BOS,5012120,2026-03-29
+Connor Wong,Boston Red Sox,BOS,40086,2026-03-29
+Willson Contreras,Boston Red Sox,BOS,32532,2026-03-29
+Caleb Durbin,Boston Red Sox,BOS,5007615,2026-03-29
+Isiah Kiner-Falefa,Boston Red Sox,BOS,33572,2026-03-29
+Marcelo Mayer,Boston Red Sox,BOS,4872648,2026-03-29
+Andruw Monasterio,Boston Red Sox,BOS,36950,2026-03-29
+Trevor Story,Boston Red Sox,BOS,32150,2026-03-29
+Wilyer Abreu,Boston Red Sox,BOS,4990055,2026-03-29
+Roman Anthony,Boston Red Sox,BOS,5080767,2026-03-29
+Jarren Duran,Boston Red Sox,BOS,41610,2026-03-29
+Ceddanne Rafaela,Boston Red Sox,BOS,4987382,2026-03-29
+Masataka Yoshida,Boston Red Sox,BOS,4872598,2026-03-29
+Matthew Boyd,Chicago Cubs,CHC,34401,2026-03-29
+Ben Brown,Chicago Cubs,CHC,41516,2026-03-29
+Edward Cabrera,Chicago Cubs,CHC,40944,2026-03-29
+Hunter Harvey,Chicago Cubs,CHC,33191,2026-03-29
+Cade Horton,Chicago Cubs,CHC,4692526,2026-03-29
+Shota Imanaga,Chicago Cubs,CHC,5134630,2026-03-29
+Phil Maton,Chicago Cubs,CHC,36161,2026-03-29
+Hoby Milner,Chicago Cubs,CHC,36088,2026-03-29
+Daniel Palencia,Chicago Cubs,CHC,4875225,2026-03-29
+Colin Rea,Chicago Cubs,CHC,33950,2026-03-29
+Jameson Taillon,Chicago Cubs,CHC,31258,2026-03-29
+Caleb Thielbar,Chicago Cubs,CHC,32440,2026-03-29
+Jacob Webb,Chicago Cubs,CHC,40384,2026-03-29
+Miguel Amaya,Chicago Cubs,CHC,38905,2026-03-29
+Moises Ballesteros,Chicago Cubs,CHC,4987418,2026-03-29
+Carson Kelly,Chicago Cubs,CHC,32797,2026-03-29
+Alex Bregman,Chicago Cubs,CHC,34886,2026-03-29
+Michael Busch,Chicago Cubs,CHC,42415,2026-03-29
+Nico Hoerner,Chicago Cubs,CHC,41219,2026-03-29
+Scott Kingery,Chicago Cubs,CHC,35276,2026-03-29
+Matt Shaw,Chicago Cubs,CHC,4867667,2026-03-29
+Dansby Swanson,Chicago Cubs,CHC,34895,2026-03-29
+Dylan Carlson,Chicago Cubs,CHC,39226,2026-03-29
+Michael Conforto,Chicago Cubs,CHC,33711,2026-03-29
+Pete Crow-Armstrong,Chicago Cubs,CHC,4717833,2026-03-29
+Ian Happ,Chicago Cubs,CHC,34945,2026-03-29
+Sean Burke,Chicago White Sox,CHW,4867679,2026-03-29
+Seranthony Dominguez,Chicago White Sox,CHW,37793,2026-03-29
+Erick Fedde,Chicago White Sox,CHW,33793,2026-03-29
+Jordan Hicks,Chicago White Sox,CHW,37909,2026-03-29
+Bryan Hudson,Chicago White Sox,CHW,4991171,2026-03-29
+Anthony Kay,Chicago White Sox,CHW,40947,2026-03-29
+Jordan Leasure,Chicago White Sox,CHW,5132121,2026-03-29
+Davis Martin,Chicago White Sox,CHW,42823,2026-03-29
+Chris Murphy,Chicago White Sox,CHW,4084958,2026-03-29
+Sean Newcomb,Chicago White Sox,CHW,33856,2026-03-29
+Jedixson Paez,Chicago White Sox,CHW,5332994,2026-03-29
+Shane Smith,Chicago White Sox,CHW,5201814,2026-03-29
+Grant Taylor,Chicago White Sox,CHW,4927630,2026-03-29
+Reese McGuire,Chicago White Sox,CHW,33250,2026-03-29
+Edgar Quero,Chicago White Sox,CHW,4917824,2026-03-29
+Luisangel Acuna,Chicago White Sox,CHW,42411,2026-03-29
+Chase Meidroth,Chicago White Sox,CHW,5136929,2026-03-29
+Colson Montgomery,Chicago White Sox,CHW,4872685,2026-03-29
+Munetaka Murakami,Chicago White Sox,CHW,4872595,2026-03-29
+Lenyn Sosa,Chicago White Sox,CHW,41684,2026-03-29
+Miguel Vargas,Chicago White Sox,CHW,42453,2026-03-29
+Andrew Benintendi,Chicago White Sox,CHW,34986,2026-03-29
+Austin Hays,Chicago White Sox,CHW,36928,2026-03-29
+Derek Hill,Chicago White Sox,CHW,33721,2026-03-29
+Everson Pereira,Chicago White Sox,CHW,41252,2026-03-29
+Tristan Peters,Chicago White Sox,CHW,5085893,2026-03-29
+Andrew Abbott,Cincinnati Reds,CIN,4414528,2026-03-29
+Graham Ashcraft,Cincinnati Reds,CIN,4084179,2026-03-29
+Brock Burke,Cincinnati Reds,CIN,39945,2026-03-29
+Chase Burns,Cincinnati Reds,CIN,4927516,2026-03-29
+Jose Franco,Cincinnati Reds,CIN,5332124,2026-03-29
+Pierce Johnson,Cincinnati Reds,CIN,32777,2026-03-29
+Rhett Lowder,Cincinnati Reds,CIN,4758873,2026-03-29
+Sam Moll,Cincinnati Reds,CIN,34928,2026-03-29
+Emilio Pagan,Cincinnati Reds,CIN,33403,2026-03-29
+Connor Phillips,Cincinnati Reds,CIN,4918160,2026-03-29
+Tony Santillan,Cincinnati Reds,CIN,40950,2026-03-29
+Brady Singer,Cincinnati Reds,CIN,41172,2026-03-29
+Brandon Williamson,Cincinnati Reds,CIN,42431,2026-03-29
+Tyler Stephenson,Cincinnati Reds,CIN,34975,2026-03-29
+Jose Trevino,Cincinnati Reds,CIN,35268,2026-03-29
+Elly De La Cruz,Cincinnati Reds,CIN,4917694,2026-03-29
+Ke'Bryan Hayes,Cincinnati Reds,CIN,35020,2026-03-29
+Nathaniel Lowe,Cincinnati Reds,CIN,40538,2026-03-29
+Matt McLain,Cincinnati Reds,CIN,4422899,2026-03-29
+Spencer Steer,Cincinnati Reds,CIN,4722857,2026-03-29
+Sal Stewart,Cincinnati Reds,CIN,5080771,2026-03-29
+Eugenio Suarez,Cincinnati Reds,CIN,32367,2026-03-29
+Will Benson,Cincinnati Reds,CIN,39216,2026-03-29
+TJ Friedl,Cincinnati Reds,CIN,36020,2026-03-29
+Noelvi Marte,Cincinnati Reds,CIN,41307,2026-03-29
+Dane Myers,Cincinnati Reds,CIN,40048,2026-03-29
+Shawn Armstrong,Cleveland Guardians,CLE,33499,2026-03-29
+Tanner Bibee,Cleveland Guardians,CLE,4345278,2026-03-29
+Connor Brogdon,Cleveland Guardians,CLE,41515,2026-03-29
+Joey Cantillo,Cleveland Guardians,CLE,42488,2026-03-29
+Slade Cecconi,Cleveland Guardians,CLE,41462,2026-03-29
+Matt Festa,Cleveland Guardians,CLE,39871,2026-03-29
+Tim Herrin,Cleveland Guardians,CLE,4228579,2026-03-29
+Colin Holderman,Cleveland Guardians,CLE,4917897,2026-03-29
+Parker Messick,Cleveland Guardians,CLE,4619898,2026-03-29
+Peyton Pallette,Cleveland Guardians,CLE,4622229,2026-03-29
+Erik Sabrowski,Cleveland Guardians,CLE,5194333,2026-03-29
+Cade Smith,Cleveland Guardians,CLE,4987924,2026-03-29
+Gavin Williams,Cleveland Guardians,CLE,4345076,2026-03-29
+Austin Hedges,Cleveland Guardians,CLE,32168,2026-03-29
+Bo Naylor,Cleveland Guardians,CLE,41183,2026-03-29
+Gabriel Arias,Cleveland Guardians,CLE,40344,2026-03-29
+David Fry,Cleveland Guardians,CLE,41672,2026-03-29
+Rhys Hoskins,Cleveland Guardians,CLE,35291,2026-03-29
+CJ Kayfus,Cleveland Guardians,CLE,4719337,2026-03-29
+Kyle Manzardo,Cleveland Guardians,CLE,4917927,2026-03-29
+Jose Ramirez,Cleveland Guardians,CLE,32801,2026-03-29
+Brayan Rocchio,Cleveland Guardians,CLE,41217,2026-03-29
+Daniel Schneemann,Cleveland Guardians,CLE,42001,2026-03-29
+Chase DeLauter,Cleveland Guardians,CLE,4619649,2026-03-29
+Steven Kwan,Cleveland Guardians,CLE,41996,2026-03-29
+Angel Martinez,Cleveland Guardians,CLE,42497,2026-03-29
+Zach Agnos,Colorado Rockies,COL,5207459,2026-03-29
+Brennan Bernardino,Colorado Rockies,COL,35876,2026-03-29
+Chase Dollander,Colorado Rockies,COL,4719068,2026-03-29
+Ryan Feltner,Colorado Rockies,COL,4019484,2026-03-29
+Kyle Freeland,Colorado Rockies,COL,33839,2026-03-29
+Jimmy Herget,Colorado Rockies,COL,36093,2026-03-29
+Jaden Hill,Colorado Rockies,COL,4414362,2026-03-29
+Michael Lorenzen,Colorado Rockies,COL,33252,2026-03-29
+Juan Mejia,Colorado Rockies,COL,5185107,2026-03-29
+Jose Quintana,Colorado Rockies,COL,32106,2026-03-29
+Antonio Senzatela,Colorado Rockies,COL,33750,2026-03-29
+Tomoyuki Sugano,Colorado Rockies,COL,4142423,2026-03-29
+Victor Vodnik,Colorado Rockies,COL,4722599,2026-03-29
+Braxton Fulford,Colorado Rockies,COL,5000931,2026-03-29
+Hunter Goodman,Colorado Rockies,COL,4416591,2026-03-29
+Brett Sullivan,Colorado Rockies,COL,39913,2026-03-29
+Edouard Julien,Colorado Rockies,COL,3985190,2026-03-29
+Kyle Karros,Colorado Rockies,COL,5203102,2026-03-29
+Ryan Ritter,Colorado Rockies,COL,5196606,2026-03-29
+TJ Rumfield,Colorado Rockies,COL,5014349,2026-03-29
+Ezequiel Tovar,Colorado Rockies,COL,4905919,2026-03-29
+Jordan Beck,Colorado Rockies,COL,4619460,2026-03-29
+Willi Castro,Colorado Rockies,COL,34230,2026-03-29
+Brenton Doyle,Colorado Rockies,COL,42462,2026-03-29
+Troy Johnston,Colorado Rockies,COL,4346111,2026-03-29
+Jake McCarthy,Colorado Rockies,COL,41197,2026-03-29
+Drew Anderson,Detroit Tigers,DET,41125,2026-03-29
+Enmanuel De Jesus,Detroit Tigers,DET,41513,2026-03-29
+Kyle Finnegan,Detroit Tigers,DET,36543,2026-03-29
+Jack Flaherty,Detroit Tigers,DET,33837,2026-03-29
+Tyler Holton,Detroit Tigers,DET,3983833,2026-03-29
+Brant Hurter,Detroit Tigers,DET,5197093,2026-03-29
+Kenley Jansen,Detroit Tigers,DET,29630,2026-03-29
+Casey Mize,Detroit Tigers,DET,41167,2026-03-29
+Connor Seabold,Detroit Tigers,DET,41367,2026-03-29
+Tarik Skubal,Detroit Tigers,DET,42409,2026-03-29
+Framber Valdez,Detroit Tigers,DET,36581,2026-03-29
+Justin Verlander,Detroit Tigers,DET,6341,2026-03-29
+Will Vest,Detroit Tigers,DET,41606,2026-03-29
+Dillon Dingler,Detroit Tigers,DET,4345620,2026-03-29
+Jake Rogers,Detroit Tigers,DET,39900,2026-03-29
+Colt Keith,Detroit Tigers,DET,4683384,2026-03-29
+Kevin McGonigle,Detroit Tigers,DET,5149072,2026-03-29
+Zach McKinstry,Detroit Tigers,DET,38420,2026-03-29
+Spencer Torkelson,Detroit Tigers,DET,4424286,2026-03-29
+Gleyber Torres,Detroit Tigers,DET,33804,2026-03-29
+Javier Baez,Detroit Tigers,DET,32127,2026-03-29
+Kerry Carpenter,Detroit Tigers,DET,42714,2026-03-29
+Riley Greene,Detroit Tigers,DET,42179,2026-03-29
+Jahmai Jones,Detroit Tigers,DET,34958,2026-03-29
+Parker Meadows,Detroit Tigers,DET,41223,2026-03-29
+Matt Vierling,Detroit Tigers,DET,41636,2026-03-29
+Bryan Abreu,Houston Astros,HOU,41208,2026-03-29
+AJ Blubaugh,Houston Astros,HOU,42556,2026-03-29
+Hunter Brown,Houston Astros,HOU,4717803,2026-03-29
+Mike Burrows,Houston Astros,HOU,4918155,2026-03-29
+Tatsuya Imai,Houston Astros,HOU,5330833,2026-03-29
+Cristian Javier,Houston Astros,HOU,41261,2026-03-29
+Bryan King,Houston Astros,HOU,5201821,2026-03-29
+Lance McCullers Jr.,Houston Astros,HOU,32764,2026-03-29
+Roddery Munoz,Houston Astros,HOU,5116856,2026-03-29
+Steven Okert,Houston Astros,HOU,33716,2026-03-29
+Christian Roa,Houston Astros,HOU,4298336,2026-03-29
+Kai-Wei Teng,Houston Astros,HOU,42242,2026-03-29
+Ryan Weiss,Houston Astros,HOU,3964917,2026-03-29
+Yainer Diaz,Houston Astros,HOU,4781491,2026-03-29
+Christian Vazquez,Houston Astros,HOU,31389,2026-03-29
+Nick Allen,Houston Astros,HOU,40338,2026-03-29
+Carlos Correa,Houston Astros,HOU,32653,2026-03-29
+Brice Matthews,Houston Astros,HOU,4838117,2026-03-29
+Isaac Paredes,Houston Astros,HOU,39706,2026-03-29
+Jeremy Pena,Houston Astros,HOU,41273,2026-03-29
+Christian Walker,Houston Astros,HOU,32758,2026-03-29
+Jose Altuve,Houston Astros,HOU,31662,2026-03-29
+Yordan Alvarez,Houston Astros,HOU,36018,2026-03-29
+Joey Loperfido,Houston Astros,HOU,4297976,2026-03-29
+Jake Meyers,Houston Astros,HOU,40719,2026-03-29
+Cam Smith,Houston Astros,HOU,5080766,2026-03-29
+Kris Bubic,Kansas City Royals,KC,41201,2026-03-29
+Noah Cameron,Kansas City Royals,KC,4417208,2026-03-29
+Lucas Erceg,Kansas City Royals,KC,36618,2026-03-29
+Carlos Estevez,Kansas City Royals,KC,34861,2026-03-29
+Bailey Falter,Kansas City Royals,KC,4705677,2026-03-29
+Alex Lange,Kansas City Royals,KC,40976,2026-03-29
+Seth Lugo,Kansas City Royals,KC,34873,2026-03-29
+Daniel Lynch IV,Kansas City Royals,KC,41227,2026-03-29
+Nick Mears,Kansas City Royals,KC,42620,2026-03-29
+Cole Ragans,Kansas City Royals,KC,41054,2026-03-29
+John Schreiber,Kansas City Royals,KC,39949,2026-03-29
+Matt Strahm,Kansas City Royals,KC,34862,2026-03-29
+Michael Wacha,Kansas City Royals,KC,32640,2026-03-29
+Carter Jensen,Kansas City Royals,KC,4917812,2026-03-29
+Salvador Perez,Kansas City Royals,KC,31127,2026-03-29
+Maikel Garcia,Kansas City Royals,KC,4905884,2026-03-29
+Jonathan India,Kansas City Royals,KC,41171,2026-03-29
+Vinnie Pasquantino,Kansas City Royals,KC,4109109,2026-03-29
+Tyler Tolbert,Kansas City Royals,KC,4151063,2026-03-29
+Bobby Witt Jr.,Kansas City Royals,KC,42403,2026-03-29
+Jac Caglianone,Kansas City Royals,KC,4926296,2026-03-29
+Isaac Collins,Kansas City Royals,KC,42959,2026-03-29
+Kyle Isbel,Kansas City Royals,KC,41263,2026-03-29
+Nick Loftin,Kansas City Royals,KC,4314013,2026-03-29
+Starling Marte,Kansas City Royals,KC,30830,2026-03-29
+Lane Thomas,Kansas City Royals,KC,36409,2026-03-29
+Sam Bachman,Los Angeles Angels,LAA,4621489,2026-03-29
+Reid Detmers,Los Angeles Angels,LAA,4326697,2026-03-29
+Ryan Johnson,Los Angeles Angels,LAA,5007859,2026-03-29
+Yusei Kikuchi,Los Angeles Angels,LAA,41415,2026-03-29
+Jack Kochanowicz,Los Angeles Angels,LAA,4917819,2026-03-29
+Joey Lucchesi,Los Angeles Angels,LAA,39876,2026-03-29
+Drew Pomeranz,Los Angeles Angels,LAA,31010,2026-03-29
+Jordan Romano,Los Angeles Angels,LAA,36380,2026-03-29
+Chase Silseth,Los Angeles Angels,LAA,4413990,2026-03-29
+Jose Soriano,Los Angeles Angels,LAA,40973,2026-03-29
+Brent Suter,Los Angeles Angels,LAA,36023,2026-03-29
+Walbert Urena,Los Angeles Angels,LAA,5197476,2026-03-29
+Ryan Zeferjahn,Los Angeles Angels,LAA,4722057,2026-03-29
+Travis d'Arnaud,Los Angeles Angels,LAA,29951,2026-03-29
+Logan O'Hoppe,Los Angeles Angels,LAA,42047,2026-03-29
+Jeimer Candelario,Los Angeles Angels,LAA,32531,2026-03-29
+Adam Frazier,Los Angeles Angels,LAA,33546,2026-03-29
+Yoan Moncada,Los Angeles Angels,LAA,33984,2026-03-29
+Zach Neto,Los Angeles Angels,LAA,4666100,2026-03-29
+Oswald Peraza,Los Angeles Angels,LAA,42479,2026-03-29
+Nolan Schanuel,Los Angeles Angels,LAA,4739755,2026-03-29
+Jo Adell,Los Angeles Angels,LAA,40854,2026-03-29
+Josh Lowe,Los Angeles Angels,LAA,40557,2026-03-29
+Jorge Soler,Los Angeles Angels,LAA,32558,2026-03-29
+Bryce Teodosio,Los Angeles Angels,LAA,4307826,2026-03-29
+Mike Trout,Los Angeles Angels,LAA,30836,2026-03-29
+Ben Casparius,Los Angeles Dodgers,LAD,4326800,2026-03-29
+Edwin Diaz,Los Angeles Dodgers,LAD,35394,2026-03-29
+Jack Dreyer,Los Angeles Dodgers,LAD,5136082,2026-03-29
+Tyler Glasnow,Los Angeles Dodgers,LAD,33190,2026-03-29
+Edgardo Henriquez,Los Angeles Dodgers,LAD,5194684,2026-03-29
+Will Klein,Los Angeles Dodgers,LAD,4313163,2026-03-29
+Shohei Ohtani,Los Angeles Dodgers,LAD,39832,2026-03-29
+Roki Sasaki,Los Angeles Dodgers,LAD,5134638,2026-03-29
+Tanner Scott,Los Angeles Dodgers,LAD,35135,2026-03-29
+Emmet Sheehan,Los Angeles Dodgers,LAD,4417806,2026-03-29
+Blake Treinen,Los Angeles Dodgers,LAD,32185,2026-03-29
+Alex Vesia,Los Angeles Dodgers,LAD,42622,2026-03-29
+Justin Wrobleski,Los Angeles Dodgers,LAD,4417203,2026-03-29
+Yoshinobu Yamamoto,Los Angeles Dodgers,LAD,4872587,2026-03-29
+Dalton Rushing,Los Angeles Dodgers,LAD,4619839,2026-03-29
+Will Smith,Los Angeles Dodgers,LAD,38309,2026-03-29
+Mookie Betts,Los Angeles Dodgers,LAD,33039,2026-03-29
+Santiago Espinal,Los Angeles Dodgers,LAD,39924,2026-03-29
+Alex Freeland,Los Angeles Dodgers,LAD,4727589,2026-03-29
+Freddie Freeman,Los Angeles Dodgers,LAD,30193,2026-03-29
+Max Muncy,Los Angeles Dodgers,LAD,33303,2026-03-29
+Miguel Rojas,Los Angeles Dodgers,LAD,30791,2026-03-29
+Alex Call,Los Angeles Dodgers,LAD,38994,2026-03-29
+Teoscar Hernandez,Los Angeles Dodgers,LAD,33377,2026-03-29
+Andy Pages,Los Angeles Dodgers,LAD,42468,2026-03-29
+Kyle Tucker,Los Angeles Dodgers,LAD,34967,2026-03-29
+Sandy Alcantara,Miami Marlins,MIA,35241,2026-03-29
+Lake Bachar,Miami Marlins,MIA,42592,2026-03-29
+Anthony Bender,Miami Marlins,MIA,42171,2026-03-29
+Pete Fairbanks,Miami Marlins,MIA,42180,2026-03-29
+Calvin Faucher,Miami Marlins,MIA,3978173,2026-03-29
+Janson Junk,Miami Marlins,MIA,4881980,2026-03-29
+John King,Miami Marlins,MIA,41763,2026-03-29
+Max Meyer,Miami Marlins,MIA,4345164,2026-03-29
+Andrew Nardi,Miami Marlins,MIA,3975840,2026-03-29
+Chris Paddack,Miami Marlins,MIA,35999,2026-03-29
+Eury Perez,Miami Marlins,MIA,4917854,2026-03-29
+Michael Petersen,Miami Marlins,MIA,41824,2026-03-29
+Tyler Phillips,Miami Marlins,MIA,41247,2026-03-29
+Liam Hicks,Miami Marlins,MIA,4725251,2026-03-29
+Agustin Ramirez,Miami Marlins,MIA,5132014,2026-03-29
+Deyvison De Los Santos,Miami Marlins,MIA,4989046,2026-03-29
+Xavier Edwards,Miami Marlins,MIA,41326,2026-03-29
+Otto Lopez,Miami Marlins,MIA,41917,2026-03-29
+Connor Norby,Miami Marlins,MIA,4417606,2026-03-29
+Graham Pauley,Miami Marlins,MIA,4622931,2026-03-29
+Javier Sanoja,Miami Marlins,MIA,5073992,2026-03-29
+Owen Caissie,Miami Marlins,MIA,4917685,2026-03-29
+Griffin Conine,Miami Marlins,MIA,41295,2026-03-29
+Heriberto Hernandez,Miami Marlins,MIA,42455,2026-03-29
+Jakob Marsee,Miami Marlins,MIA,4866735,2026-03-29
+Austin Slater,Miami Marlins,MIA,35265,2026-03-29
+Grant Anderson,Milwaukee Brewers,MIL,42161,2026-03-29
+Aaron Ashby,Milwaukee Brewers,MIL,41325,2026-03-29
+DL Hall,Milwaukee Brewers,MIL,41018,2026-03-29
+Kyle Harrison,Milwaukee Brewers,MIL,4683375,2026-03-29
+Jared Koenig,Milwaukee Brewers,MIL,4995802,2026-03-29
+Trevor Megill,Milwaukee Brewers,MIL,40080,2026-03-29
+Jacob Misiorowski,Milwaukee Brewers,MIL,5080761,2026-03-29
+Chad Patrick,Milwaukee Brewers,MIL,5131708,2026-03-29
+Brandon Sproat,Milwaukee Brewers,MIL,4621041,2026-03-29
+Abner Uribe,Milwaukee Brewers,MIL,4917865,2026-03-29
+Brandon Woodruff,Milwaukee Brewers,MIL,37515,2026-03-29
+Angel Zerpa,Milwaukee Brewers,MIL,4705673,2026-03-29
+William Contreras,Milwaukee Brewers,MIL,39895,2026-03-29
+Jeferson Quero,Milwaukee Brewers,MIL,4917867,2026-03-29
+Gary Sanchez,Milwaukee Brewers,MIL,31095,2026-03-29
+Jake Bauers,Milwaukee Brewers,MIL,35013,2026-03-29
+David Hamilton,Milwaukee Brewers,MIL,42987,2026-03-29
+Joey Ortiz,Milwaukee Brewers,MIL,42958,2026-03-29
+Luis Rengifo,Milwaukee Brewers,MIL,37237,2026-03-29
+Brice Turang,Milwaukee Brewers,MIL,41179,2026-03-29
+Sal Frelick,Milwaukee Brewers,MIL,4417795,2026-03-29
+Brandon Lockridge,Milwaukee Brewers,MIL,42641,2026-03-29
+Garrett Mitchell,Milwaukee Brewers,MIL,4313442,2026-03-29
+Blake Perkins,Milwaukee Brewers,MIL,36974,2026-03-29
+Christian Yelich,Milwaukee Brewers,MIL,31283,2026-03-29
+Mick Abel,Minnesota Twins,MIN,4718970,2026-03-29
+Anthony Banda,Minnesota Twins,MIN,34542,2026-03-29
+Taj Bradley,Minnesota Twins,MIN,42480,2026-03-29
+Kody Funderburk,Minnesota Twins,MIN,4348166,2026-03-29
+Zak Kent,Minnesota Twins,MIN,5014989,2026-03-29
+Cody Laweryson,Minnesota Twins,MIN,5012036,2026-03-29
+Bailey Ober,Minnesota Twins,MIN,3107919,2026-03-29
+Eric Orze,Minnesota Twins,MIN,4299966,2026-03-29
+Taylor Rogers,Minnesota Twins,MIN,33671,2026-03-29
+Joe Ryan,Minnesota Twins,MIN,42450,2026-03-29
+Cole Sands,Minnesota Twins,MIN,3983841,2026-03-29
+Justin Topa,Minnesota Twins,MIN,38796,2026-03-29
+Simeon Woods Richardson,Minnesota Twins,MIN,41383,2026-03-29
+Victor Caratini,Minnesota Twins,MIN,33229,2026-03-29
+Ryan Jeffers,Minnesota Twins,MIN,41587,2026-03-29
+Josh Bell,Minnesota Twins,MIN,32517,2026-03-29
+Kody Clemens,Minnesota Twins,MIN,41311,2026-03-29
+Tristan Gray,Minnesota Twins,MIN,39918,2026-03-29
+Luke Keaschall,Minnesota Twins,MIN,4977664,2026-03-29
+Brooks Lee,Minnesota Twins,MIN,4629081,2026-03-29
+Royce Lewis,Minnesota Twins,MIN,40635,2026-03-29
+Byron Buxton,Minnesota Twins,MIN,32655,2026-03-29
+Trevor Larnach,Minnesota Twins,MIN,41205,2026-03-29
+Austin Martin,Minnesota Twins,MIN,4297998,2026-03-29
+James Outman,Minnesota Twins,MIN,41802,2026-03-29
+Matt Wallner,Minnesota Twins,MIN,42427,2026-03-29
+Huascar Brazoban,New York Mets,NYM,4916509,2026-03-29
+Luis Garcia,New York Mets,NYM,33089,2026-03-29
+Clay Holmes,New York Mets,NYM,32827,2026-03-29
+Richard Lovelady,New York Mets,NYM,39856,2026-03-29
+Sean Manaea,New York Mets,NYM,33244,2026-03-29
+Nolan McLean,New York Mets,NYM,4433874,2026-03-29
+Tobias Myers,New York Mets,NYM,39716,2026-03-29
+Freddy Peralta,New York Mets,NYM,39825,2026-03-29
+David Peterson,New York Mets,NYM,40921,2026-03-29
+Brooks Raley,New York Mets,NYM,32005,2026-03-29
+Kodai Senga,New York Mets,NYM,4142421,2026-03-29
+Luke Weaver,New York Mets,NYM,33770,2026-03-29
+Devin Williams,New York Mets,NYM,33224,2026-03-29
+Francisco Alvarez,New York Mets,NYM,41253,2026-03-29
+Luis Torrens,New York Mets,NYM,33805,2026-03-29
+Brett Baty,New York Mets,NYM,42414,2026-03-29
+Bo Bichette,New York Mets,NYM,38904,2026-03-29
+Francisco Lindor,New York Mets,NYM,32129,2026-03-29
+Jorge Polanco,New York Mets,NYM,32525,2026-03-29
+Marcus Semien,New York Mets,NYM,32146,2026-03-29
+Mark Vientos,New York Mets,NYM,41034,2026-03-29
+Carson Benge,New York Mets,NYM,4925604,2026-03-29
+Luis Robert Jr.,New York Mets,NYM,39631,2026-03-29
+Juan Soto,New York Mets,NYM,36969,2026-03-29
+Tyrone Taylor,New York Mets,NYM,32783,2026-03-29
+Jared Young,New York Mets,NYM,41575,2026-03-29
+David Bednar,New York Yankees,NYY,38303,2026-03-29
+Jake Bird,New York Yankees,NYY,3459223,2026-03-29
+Paul Blackburn,New York Yankees,NYY,32776,2026-03-29
+Fernando Cruz,New York Yankees,NYY,34068,2026-03-29
+Camilo Doval,New York Yankees,NYY,41337,2026-03-29
+Max Fried,New York Yankees,NYY,32685,2026-03-29
+Brent Headrick,New York Yankees,NYY,5116839,2026-03-29
+Tim Hill,New York Yankees,NYY,37005,2026-03-29
+Cam Schlittler,New York Yankees,NYY,5134581,2026-03-29
+Will Warren,New York Yankees,NYY,5132011,2026-03-29
+Ryan Weathers,New York Yankees,NYY,41178,2026-03-29
+Cade Winquest,New York Yankees,NYY,5204350,2026-03-29
+Ryan Yarbrough,New York Yankees,NYY,33735,2026-03-29
+J.C. Escarra,New York Yankees,NYY,41644,2026-03-29
+Austin Wells,New York Yankees,NYY,4683349,2026-03-29
+Jose Caballero,New York Yankees,NYY,42135,2026-03-29
+Jazz Chisholm Jr.,New York Yankees,NYY,41433,2026-03-29
+Paul Goldschmidt,New York Yankees,NYY,31027,2026-03-29
+Ryan McMahon,New York Yankees,NYY,33247,2026-03-29
+Ben Rice,New York Yankees,NYY,5016968,2026-03-29
+Amed Rosario,New York Yankees,NYY,33215,2026-03-29
+Cody Bellinger,New York Yankees,NYY,33912,2026-03-29
+Randal Grichuk,New York Yankees,NYY,31399,2026-03-29
+Trent Grisham,New York Yankees,NYY,34995,2026-03-29
+Aaron Judge,New York Yankees,NYY,33192,2026-03-29
+Giancarlo Stanton,New York Yankees,NYY,30583,2026-03-29
+Jose Alvarado,Philadelphia Phillies,PHI,36063,2026-03-29
+Kyle Backhus,Philadelphia Phillies,PHI,4221113,2026-03-29
+Tanner Banks,Philadelphia Phillies,PHI,40437,2026-03-29
+Jonathan Bowlan,Philadelphia Phillies,PHI,41344,2026-03-29
+Jhoan Duran,Philadelphia Phillies,PHI,41109,2026-03-29
+Brad Keller,Philadelphia Phillies,PHI,35292,2026-03-29
+Jesus Luzardo,Philadelphia Phillies,PHI,39667,2026-03-29
+Tim Mayza,Philadelphia Phillies,PHI,35773,2026-03-29
+Aaron Nola,Philadelphia Phillies,PHI,33709,2026-03-29
+Andrew Painter,Philadelphia Phillies,PHI,4872683,2026-03-29
+Zach Pop,Philadelphia Phillies,PHI,41103,2026-03-29
+Cristopher Sanchez,Philadelphia Phillies,PHI,42359,2026-03-29
+Taijuan Walker,Philadelphia Phillies,PHI,31864,2026-03-29
+Rafael Marchan,Philadelphia Phillies,PHI,40816,2026-03-29
+J.T. Realmuto,Philadelphia Phillies,PHI,32177,2026-03-29
+Alec Bohm,Philadelphia Phillies,PHI,41169,2026-03-29
+Bryce Harper,Philadelphia Phillies,PHI,30951,2026-03-29
+Dylan Moore,Philadelphia Phillies,PHI,40593,2026-03-29
+Edmundo Sosa,Philadelphia Phillies,PHI,33809,2026-03-29
+Bryson Stott,Philadelphia Phillies,PHI,42417,2026-03-29
+Trea Turner,Philadelphia Phillies,PHI,33710,2026-03-29
+Justin Crawford,Philadelphia Phillies,PHI,5080642,2026-03-29
+Adolis Garcia,Philadelphia Phillies,PHI,35537,2026-03-29
+Otto Kemp,Philadelphia Phillies,PHI,5136835,2026-03-29
+Brandon Marsh,Philadelphia Phillies,PHI,40803,2026-03-29
+Kyle Schwarber,Philadelphia Phillies,PHI,33712,2026-03-29
+Braxton Ashcraft,Pittsburgh Pirates,PIT,41282,2026-03-29
+Hunter Barco,Pittsburgh Pirates,PIT,4621029,2026-03-29
+Bubba Chandler,Pittsburgh Pirates,PIT,4683325,2026-03-29
+Mitch Keller,Pittsburgh Pirates,PIT,33722,2026-03-29
+Justin Lawrence,Pittsburgh Pirates,PIT,41310,2026-03-29
+Isaac Mattson,Pittsburgh Pirates,PIT,42063,2026-03-29
+Carmen Mlodzinski,Pittsburgh Pirates,PIT,4298378,2026-03-29
+Mason Montgomery,Pittsburgh Pirates,PIT,4424112,2026-03-29
+Yohan Ramirez,Pittsburgh Pirates,PIT,41893,2026-03-29
+Dennis Santana,Pittsburgh Pirates,PIT,39801,2026-03-29
+Paul Skenes,Pittsburgh Pirates,PIT,4719507,2026-03-29
+Gregory Soto,Pittsburgh Pirates,PIT,39804,2026-03-29
+Jose Urquidy,Pittsburgh Pirates,PIT,35759,2026-03-29
+Joey Bart,Pittsburgh Pirates,PIT,41168,2026-03-29
+Henry Davis,Pittsburgh Pirates,PIT,4418683,2026-03-29
+Nick Gonzales,Pittsburgh Pirates,PIT,4311634,2026-03-29
+Spencer Horwitz,Pittsburgh Pirates,PIT,4228472,2026-03-29
+Brandon Lowe,Pittsburgh Pirates,PIT,39961,2026-03-29
+Ryan O'Hearn,Pittsburgh Pirates,PIT,35183,2026-03-29
+Jared Triolo,Pittsburgh Pirates,PIT,42933,2026-03-29
+Nick Yorke,Pittsburgh Pirates,PIT,4683379,2026-03-29
+Billy Cook,Pittsburgh Pirates,PIT,5137038,2026-03-29
+Oneil Cruz,Pittsburgh Pirates,PIT,39712,2026-03-29
+Jake Mangum,Pittsburgh Pirates,PIT,42664,2026-03-29
+Bryan Reynolds,Pittsburgh Pirates,PIT,38980,2026-03-29
+Marcell Ozuna,Pittsburgh Pirates,PIT,31668,2026-03-29
+Walker Buehler,San Diego Padres,SD,39251,2026-03-29
+Yu Darvish,San Diego Padres,SD,32055,2026-03-29
+Jeremiah Estrada,San Diego Padres,SD,41014,2026-03-29
+Kyle Hart,San Diego Padres,SD,39936,2026-03-29
+Michael King,San Diego Padres,SD,40429,2026-03-29
+Ron Marinaccio,San Diego Padres,SD,4228723,2026-03-29
+German Marquez,San Diego Padres,SD,34874,2026-03-29
+Mason Miller,San Diego Padres,SD,4730225,2026-03-29
+Adrian Morejon,San Diego Padres,SD,40917,2026-03-29
+David Morgan,San Diego Padres,SD,5270578,2026-03-29
+Wandy Peralta,San Diego Padres,SD,36036,2026-03-29
+Nick Pivetta,San Diego Padres,SD,36071,2026-03-29
+Bradgley Rodriguez,San Diego Padres,SD,5266086,2026-03-29
+Randy Vasquez,San Diego Padres,SD,4722847,2026-03-29
+Luis Campusano,San Diego Padres,SD,40521,2026-03-29
+Freddy Fermin,San Diego Padres,SD,41928,2026-03-29
+Xander Bogaerts,San Diego Padres,SD,31606,2026-03-29
+Jake Cronenworth,San Diego Padres,SD,36364,2026-03-29
+Ty France,San Diego Padres,SD,35591,2026-03-29
+Manny Machado,San Diego Padres,SD,31097,2026-03-29
+Miguel Andujar,San Diego Padres,SD,33743,2026-03-29
+Nick Castellanos,San Diego Padres,SD,31187,2026-03-29
+Bryce Johnson,San Diego Padres,SD,42056,2026-03-29
+Ramon Laureano,San Diego Padres,SD,35142,2026-03-29
+Jackson Merrill,San Diego Padres,SD,4872691,2026-03-29
+Gavin Sheets,San Diego Padres,SD,40700,2026-03-29
+Fernando Tatis Jr.,San Diego Padres,SD,35983,2026-03-29
+Ryan Borucki,San Francisco Giants,SF,36192,2026-03-29
+JT Brubaker,San Francisco Giants,SF,41460,2026-03-29
+Jose Butto,San Francisco Giants,SF,4905900,2026-03-29
+Matt Gage,San Francisco Giants,SF,40337,2026-03-29
+Adrian Houser,San Francisco Giants,SF,32157,2026-03-29
+Caleb Kilian,San Francisco Giants,SF,4875969,2026-03-29
+Tyler Mahle,San Francisco Giants,SF,34973,2026-03-29
+Erik Miller,San Francisco Giants,SF,4152950,2026-03-29
+Robbie Ray,San Francisco Giants,SF,32175,2026-03-29
+Landen Roupp,San Francisco Giants,SF,4345404,2026-03-29
+Ryan Walker,San Francisco Giants,SF,5000950,2026-03-29
+Logan Webb,San Francisco Giants,SF,41216,2026-03-29
+Keaton Winn,San Francisco Giants,SF,5116843,2026-03-29
+Patrick Bailey,San Francisco Giants,SF,4345843,2026-03-29
+Daniel Susac,San Francisco Giants,SF,4751554,2026-03-29
+Willy Adames,San Francisco Giants,SF,33675,2026-03-29
+Luis Arraez,San Francisco Giants,SF,39572,2026-03-29
+Matt Chapman,San Francisco Giants,SF,33857,2026-03-29
+Christian Koss,San Francisco Giants,SF,4109031,2026-03-29
+Casey Schmitt,San Francisco Giants,SF,4301949,2026-03-29
+Harrison Bader,San Francisco Giants,SF,35062,2026-03-29
+Jerar Encarnacion,San Francisco Giants,SF,42623,2026-03-29
+Jung Hoo Lee,San Francisco Giants,SF,5134621,2026-03-29
+Jared Oliva,San Francisco Giants,SF,40532,2026-03-29
+Heliot Ramos,San Francisco Giants,SF,39642,2026-03-29
+Rafael Devers,San Francisco Giants,SF,33859,2026-03-29
+Eduard Bazardo,Seattle Mariners,SEA,41939,2026-03-29
+Matt Brash,Seattle Mariners,SEA,4894467,2026-03-29
+Luis Castillo,Seattle Mariners,SEA,35124,2026-03-29
+Cooper Criswell,Seattle Mariners,SEA,4326801,2026-03-29
+Jose Ferrer,Seattle Mariners,SEA,5119607,2026-03-29
+Logan Gilbert,Seattle Mariners,SEA,41221,2026-03-29
+Emerson Hancock,Seattle Mariners,SEA,4297897,2026-03-29
+George Kirby,Seattle Mariners,SEA,42406,2026-03-29
+Casey Legumina,Seattle Mariners,SEA,4346117,2026-03-29
+Andres Munoz,Seattle Mariners,SEA,40939,2026-03-29
+Gabe Speier,Seattle Mariners,SEA,40327,2026-03-29
+Cole Wilcox,Seattle Mariners,SEA,4413868,2026-03-29
+Bryan Woo,Seattle Mariners,SEA,4629089,2026-03-29
+Mitch Garver,Seattle Mariners,SEA,33667,2026-03-29
+Cal Raleigh,Seattle Mariners,SEA,41292,2026-03-29
+Ryan Bliss,Seattle Mariners,SEA,4414241,2026-03-29
+Brendan Donovan,Seattle Mariners,SEA,41773,2026-03-29
+Josh Naylor,Seattle Mariners,SEA,35066,2026-03-29
+Leo Rivas,Seattle Mariners,SEA,40858,2026-03-29
+Cole Young,Seattle Mariners,SEA,5080641,2026-03-29
+Randy Arozarena,Seattle Mariners,SEA,36488,2026-03-29
+Dominic Canzone,Seattle Mariners,SEA,4345621,2026-03-29
+Luke Raley,Seattle Mariners,SEA,40422,2026-03-29
+Rob Refsnyder,Seattle Mariners,SEA,33411,2026-03-29
+Victor Robles,Seattle Mariners,SEA,35042,2026-03-29
+Julio Rodriguez,Seattle Mariners,SEA,41044,2026-03-29
+Justin Bruihl,St. Louis Cardinals,STL,42735,2026-03-29
+Kyle Leahy,St. Louis Cardinals,STL,5006093,2026-03-29
+Matthew Liberatore,St. Louis Cardinals,STL,41173,2026-03-29
+Dustin May,St. Louis Cardinals,STL,40937,2026-03-29
+Michael McGreevy,St. Louis Cardinals,STL,4424141,2026-03-29
+Riley O'Brien,St. Louis Cardinals,STL,41509,2026-03-29
+Andre Pallante,St. Louis Cardinals,STL,4109034,2026-03-29
+Matthew Pushard,St. Louis Cardinals,STL,4309612,2026-03-29
+JoJo Romero,St. Louis Cardinals,STL,40456,2026-03-29
+Chris Roycroft,St. Louis Cardinals,STL,5201199,2026-03-29
+George Soriano,St. Louis Cardinals,STL,4917836,2026-03-29
+Ryne Stanek,St. Louis Cardinals,STL,33301,2026-03-29
+Matt Svanson,St. Louis Cardinals,STL,4649953,2026-03-29
+Ivan Herrera,St. Louis Cardinals,STL,41889,2026-03-29
+Pedro Pages,St. Louis Cardinals,STL,42608,2026-03-29
+Yohel Pozo,St. Louis Cardinals,STL,35675,2026-03-29
+Alec Burleson,St. Louis Cardinals,STL,4345070,2026-03-29
+Jose Fermin,St. Louis Cardinals,STL,38851,2026-03-29
+Nolan Gorman,St. Louis Cardinals,STL,41174,2026-03-29
+Thomas Saggese,St. Louis Cardinals,STL,4999876,2026-03-29
+Ramon Urias,St. Louis Cardinals,STL,40610,2026-03-29
+JJ Wetherholt,St. Louis Cardinals,STL,4941056,2026-03-29
+Masyn Winn,St. Louis Cardinals,STL,4683365,2026-03-29
+Nathan Church,St. Louis Cardinals,STL,4843048,2026-03-29
+Victor Scott II,St. Louis Cardinals,STL,4807220,2026-03-29
+Jordan Walker,St. Louis Cardinals,STL,4684778,2026-03-29
+Bryan Baker,Tampa Bay Rays,TB,40884,2026-03-29
+Joe Boyle,Tampa Bay Rays,TB,4298087,2026-03-29
+Garrett Cleavinger,Tampa Bay Rays,TB,36429,2026-03-29
+Mason Englert,Tampa Bay Rays,TB,41386,2026-03-29
+Yoendrys Gomez,Tampa Bay Rays,TB,42898,2026-03-29
+Griffin Jax,Tampa Bay Rays,TB,42604,2026-03-29
+Kevin Kelly,Tampa Bay Rays,TB,5001153,2026-03-29
+Nick Martinez,Tampa Bay Rays,TB,33372,2026-03-29
+Steven Matz,Tampa Bay Rays,TB,33106,2026-03-29
+Shane McClanahan,Tampa Bay Rays,TB,41199,2026-03-29
+Drew Rasmussen,Tampa Bay Rays,TB,42584,2026-03-29
+Ian Seymour,Tampa Bay Rays,TB,4669425,2026-03-29
+Cole Sulser,Tampa Bay Rays,TB,37825,2026-03-29
+Hunter Feduccia,Tampa Bay Rays,TB,41801,2026-03-29
+Nick Fortes,Tampa Bay Rays,TB,41674,2026-03-29
+Jonathan Aranda,Tampa Bay Rays,TB,40810,2026-03-29
+Junior Caminero,Tampa Bay Rays,TB,4905921,2026-03-29
+Yandy Diaz,Tampa Bay Rays,TB,33481,2026-03-29
+Carson Williams,Tampa Bay Rays,TB,4872692,2026-03-29
+Ben Williamson,Tampa Bay Rays,TB,4626239,2026-03-29
+Jonny DeLuca,Tampa Bay Rays,TB,5005912,2026-03-29
+Jake Fraley,Tampa Bay Rays,TB,37974,2026-03-29
+Cedric Mullins,Tampa Bay Rays,TB,35578,2026-03-29
+Richie Palacios,Tampa Bay Rays,TB,41359,2026-03-29
+Chandler Simpson,Tampa Bay Rays,TB,4679983,2026-03-29
+Ryan Vilade,Tampa Bay Rays,TB,40960,2026-03-29
+Tyler Alexander,Texas Rangers,TEX,40360,2026-03-29
+Carter Baumler,Texas Rangers,TEX,4686505,2026-03-29
+Jalen Beeks,Texas Rangers,TEX,36723,2026-03-29
+Jacob deGrom,Texas Rangers,TEX,32796,2026-03-29
+Nathan Eovaldi,Texas Rangers,TEX,31174,2026-03-29
+Robert Garcia,Texas Rangers,TEX,5125167,2026-03-29
+MacKenzie Gore,Texas Rangers,TEX,39636,2026-03-29
+Jakob Junis,Texas Rangers,TEX,36056,2026-03-29
+Jacob Latz,Texas Rangers,TEX,3210625,2026-03-29
+Jack Leiter,Texas Rangers,TEX,4622181,2026-03-29
+Chris Martin,Texas Rangers,TEX,32903,2026-03-29
+Kumar Rocker,Texas Rangers,TEX,4414525,2026-03-29
+Cole Winn,Texas Rangers,TEX,41177,2026-03-29
+Kyle Higashioka,Texas Rangers,TEX,30545,2026-03-29
+Danny Jansen,Texas Rangers,TEX,35004,2026-03-29
+Jake Burger,Texas Rangers,TEX,39882,2026-03-29
+Ezequiel Duran,Texas Rangers,TEX,42457,2026-03-29
+Josh Jung,Texas Rangers,TEX,42437,2026-03-29
+Joc Pederson,Texas Rangers,TEX,31392,2026-03-29
+Corey Seager,Texas Rangers,TEX,32691,2026-03-29
+Josh Smith,Texas Rangers,TEX,42884,2026-03-29
+Evan Carter,Texas Rangers,TEX,4917921,2026-03-29
+Sam Haggerty,Texas Rangers,TEX,38347,2026-03-29
+Wyatt Langford,Texas Rangers,TEX,4719324,2026-03-29
+Andrew McCutchen,Texas Rangers,TEX,28701,2026-03-29
+Brandon Nimmo,Texas Rangers,TEX,32159,2026-03-29
+Dylan Cease,Toronto Blue Jays,TOR,34943,2026-03-29
+Braydon Fisher,Toronto Blue Jays,TOR,41318,2026-03-29
+Mason Fluharty,Toronto Blue Jays,TOR,4622501,2026-03-29
+Kevin Gausman,Toronto Blue Jays,TOR,32667,2026-03-29
+Jeff Hoffman,Toronto Blue Jays,TOR,33841,2026-03-29
+Eric Lauer,Toronto Blue Jays,TOR,39915,2026-03-29
+Brendon Little,Toronto Blue Jays,TOR,39645,2026-03-29
+Spencer Miles,Toronto Blue Jays,TOR,4833671,2026-03-29
+Tommy Nance,Toronto Blue Jays,TOR,36385,2026-03-29
+Cody Ponce,Toronto Blue Jays,TOR,34999,2026-03-29
+Tyler Rogers,Toronto Blue Jays,TOR,34026,2026-03-29
+Max Scherzer,Toronto Blue Jays,TOR,28976,2026-03-29
+Louis Varland,Toronto Blue Jays,TOR,4917888,2026-03-29
+Tyler Heineman,Toronto Blue Jays,TOR,33142,2026-03-29
+Alejandro Kirk,Toronto Blue Jays,TOR,42081,2026-03-29
+Addison Barger,Toronto Blue Jays,TOR,4997589,2026-03-29
+Ernie Clement,Toronto Blue Jays,TOR,41287,2026-03-29
+Andres Gimenez,Toronto Blue Jays,TOR,37729,2026-03-29
+Vladimir Guerrero Jr.,Toronto Blue Jays,TOR,35002,2026-03-29
+Kazuma Okamoto,Toronto Blue Jays,TOR,5134636,2026-03-29
+Nathan Lukes,Toronto Blue Jays,TOR,35682,2026-03-29
+Jesus Sanchez,Toronto Blue Jays,TOR,39957,2026-03-29
+Davis Schneider,Toronto Blue Jays,TOR,4997181,2026-03-29
+George Springer,Toronto Blue Jays,TOR,32078,2026-03-29
+Myles Straw,Toronto Blue Jays,TOR,39105,2026-03-29
+Daulton Varsho,Toronto Blue Jays,TOR,40963,2026-03-29
+Clayton Beeter,Washington Nationals,WSH,4313143,2026-03-29
+Cade Cavalli,Washington Nationals,WSH,4308037,2026-03-29
+Andre Granillo,Washington Nationals,WSH,5132192,2026-03-29
+Foster Griffin,Washington Nationals,WSH,33773,2026-03-29
+Cole Henry,Washington Nationals,WSH,4414361,2026-03-29
+Jake Irvin,Washington Nationals,WSH,41290,2026-03-29
+Zack Littell,Washington Nationals,WSH,36052,2026-03-29
+Brad Lord,Washington Nationals,WSH,4866810,2026-03-29
+Miles Mikolas,Washington Nationals,WSH,32116,2026-03-29
+Cionel Perez,Washington Nationals,WSH,36089,2026-03-29
+P.J. Poulin,Washington Nationals,WSH,4019760,2026-03-29
+Gus Varland,Washington Nationals,WSH,41552,2026-03-29
+Ken Waldichuk,Washington Nationals,WSH,4189711,2026-03-29
+Drew Millas,Washington Nationals,WSH,4228448,2026-03-29
+Keibert Ruiz,Washington Nationals,WSH,38827,2026-03-29
+CJ Abrams,Washington Nationals,WSH,42402,2026-03-29
+Andres Chaparro,Washington Nationals,WSH,42949,2026-03-29
+Luis Garcia Jr.,Washington Nationals,WSH,40459,2026-03-29
+Brady House,Washington Nationals,WSH,4872681,2026-03-29
+Nasim Nunez,Washington Nationals,WSH,4728688,2026-03-29
+Jose Tena,Washington Nationals,WSH,42105,2026-03-29
+Jorbit Vivas,Washington Nationals,WSH,4722676,2026-03-29
+Daylen Lile,Washington Nationals,WSH,4917889,2026-03-29
+Joey Wiemer,Washington Nationals,WSH,4417134,2026-03-29
+James Wood,Washington Nationals,WSH,4918256,2026-03-29
+Jacob Young,Washington Nationals,WSH,4414210,2026-03-29
